@@ -69,3 +69,7 @@ Noble, W. S. (2009). **How does multiple testing correction work?** Nature biote
 Storey, J.D. (2010). **False discovery rate**. Retrieved on Feb. 1, 2015, from [http://www.genomine.org/papers/Storey_FDR_2010.pdf](http://www.genomine.org/papers/Storey_FDR_2010.pdf)  
 Hu Huang, Emmanuel Montassier, Pajau Vangay, Gabe Al Ghalith, Dan Knights. "**Robust statistical models for microbiome phenotype prediction with the MWAS package**" (in preparation)
 
+### License
+This project is licensed under the MIT License - see the [LICENSE.md]() file for details
+
+
