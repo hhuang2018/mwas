@@ -70,6 +70,6 @@ Storey, J.D. (2010). **False discovery rate**. Retrieved on Feb. 1, 2015, from [
 Hu Huang, Emmanuel Montassier, Pajau Vangay, Gabe Al Ghalith, Dan Knights. "**Robust statistical models for microbiome phenotype prediction with the MWAS package**" (in preparation)
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE.md]() file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/hhuang2018/mwas/blob/master/LICENSE.md) file for details
 
 
